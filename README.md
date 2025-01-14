@@ -12,11 +12,4 @@ NumberVerse is a captivating puzzle game that seamlessly blends the excitement o
 # Tech Stack
 # UI
  - Nextron 
-<<<<<<< HEAD
-
-Authors:
-Harnoor Aulakh
-Tirth Patel
-=======
  extra
->>>>>>> 261d9f142c6e29d24f1ff7a8fa73d91cd4cc367a
