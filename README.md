@@ -14,6 +14,5 @@ NumberVerse is a captivating puzzle game that seamlessly blends the excitement o
  - Nextron 
 
 Authors:
-
 Harnoor Aulakh
 Tirth Patel
